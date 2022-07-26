@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @ChoMinGi
-- 👀 I’m interested in Deeplearning(TensorFlow), Aerodynamics, IFCS(intelligent flight control system) 
-- 🌱 I’m currently learning GAN(generative dversarial network), Neuroscience
-- 💞️ I’m looking to collaborate on DL-Aerodynamics project
+- 👨‍🎨 Past concern is Deeplearning(TensorFlow), Aerodynamics, IFCS(intelligent flight control system)
+- 👀 I’m interested in Kafka, Docker
+- 🌱 I’m currently learning OS, Algorithm, CS structure
+- 💞️ I’m looking to collaborate on ___ project
 - 📫 How to reach me [nstgic3@gmail.com]
 
 <!---

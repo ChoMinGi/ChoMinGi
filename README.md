@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @ChoMinGi</br>
 - 👨‍🎨 Past concern is Deeplearning(TensorFlow), IFCS(intelligent flight control system)</br>
 - 👀 I’m interested in Kafka, Docker</br>
-- 🌱 I’m currently learning OS, Algorithm, CS structure</br>
+- 🌱 I’m currently learning OS, Algorithm, DjangoRF</br>
 - 💞️ I’m looking to collaborate on D2C service project</br>
 - 📫 How to reach me [nstgic3@gmail.com]</br></br></br>
 

@@ -3,7 +3,6 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=nstgic3)](https://solved.ac/nstgic3/)
 
 
-
 ## Skills
 #### Platforms & Languages
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white" width="100" height="25" /> <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white" width="50" height="25" />
@@ -47,5 +46,5 @@
 - 👀 I’m interested in Kubernetes, ML</br>
 - 🌱 I’m currently learning advanced JAVA, DBMS</br>
 - 💞️ I’m looking to collaborate on D2C service project</br>
-- 📫 How to reach me [nstgic3@gmail.com]</br></br></br>
+- 📫 know how to analyze results using CAE tools such as simple CFD, FEM, ANSYS, ALTAIR, CAD, Fusion, SolidWorks etc and have graduate-level engineering knowledge.</br></br></br>
 
